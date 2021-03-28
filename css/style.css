@@ -22,7 +22,7 @@
     --normal-font-size:.938rem;
     --small-font-size:.75rem;
 }
-@media screen and (min-width:768){
+@media screen and (min-width:768px){
     :root{
         --big-font-size:6rem;
         --h1-font-size:2.25rem;
@@ -70,7 +70,7 @@ a{
     color: var(--dark-color);
 }
 img{
-    max-width: 100%;
+    max-width: 70%;
     height: auto;
 }
 /* class css */
@@ -182,7 +182,7 @@ img{
     position: absolute;
     right: 0;
     bottom: 0;
-    width: 260px;
+    width: 250px;
 }
 /* button */
 .button{
