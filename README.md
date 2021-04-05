@@ -1,5 +1,5 @@
-# Ecommercer-Homepage-Responsive
-#### This is a prettry simple e-commerce webiste. Don''t forget to visit my site.
+# Responsive-Ecommerce-Homepage
+#### This is a simple e-commerce webiste. Don''t forget check my work.
 
 
 ## Features:
